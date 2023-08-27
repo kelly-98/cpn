@@ -64,6 +64,9 @@ mark {
 small {
   font-size: 80%;
 }
+.pb-100 {
+  padding-bottom: 100px !important;
+}
 sub,
 sup {
   vertical-align: baseline;
@@ -5420,7 +5423,7 @@ figcaption {
   color: rgba(0, 0, 0, 0.7);
 }
 .hb-wrapper {
-  width: 10em;
+  width: 11em;
   height: 3.6em;
   overflow: hidden;
   display: flex;
@@ -9543,7 +9546,7 @@ figcaption {
   display: none;
 }
 .customers-blog-title-box.is-home {
-  max-width: 60em;
+  max-width: 65em;
   margin: 11.36em auto 2.86em;
 }
 .cb-item {
@@ -11428,10 +11431,14 @@ figcaption {
   min-height: 100vh;
 }
 .home-hero-header {
-  grid-column-gap: 13.5em;
+  grid-column-gap: 9em;
   align-items: flex-end;
   display: flex;
   position: relative;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
 }
 .button {
   color: #fff;
@@ -11451,7 +11458,7 @@ figcaption {
 }
 .home-header-text-box {
   width: 100%;
-  max-width: 40.08em;
+  max-width: 23.08em;
   grid-column-gap: 1.89em;
   grid-row-gap: 1.89em;
   flex-direction: column;
@@ -16525,6 +16532,8 @@ figcaption {
     margin-top: 0;
     display: grid;
   }
+
+  
   .share-tooltip.is-clipboard {
     flex-direction: column;
     top: 2.7em;
@@ -16628,7 +16637,7 @@ figcaption {
     max-width: none;
   }
   .hb-wrapper {
-    width: 8em;
+    width: 11em;
     height: 4em;
   }
   .hb-wrapper.is-blog {
