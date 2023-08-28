@@ -11941,7 +11941,7 @@ figcaption {
   position: relative;
 }
 .intro-content {
-  height: 250vh;
+  height: 220vh;
 }
 .intro-content-wrapper {
   margin-top: -100vh;
@@ -11960,8 +11960,8 @@ figcaption {
   top: 0;
 }
 .intro.is-home {
-  min-height: 60vh;
-  padding-top: 30vh;
+  min-height: 30vh;
+  padding-top: 15vh;
   padding-bottom: 20vh;
 }
 .intro-logos {
